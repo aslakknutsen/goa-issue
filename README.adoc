@@ -1,0 +1,8 @@
+== Reproduce instructions
+
+Run:
+
+[source]
+----
+make generate
+----
